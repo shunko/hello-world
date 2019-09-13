@@ -2,5 +2,5 @@
 
 One of my first git experiments...
 First addition.
+Second addition moved.
 Soon I might have more fun programming...
-Second addition.
